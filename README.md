@@ -1,22 +1,18 @@
-![](https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png)
+<div align="center"><img width="80%" height="auto" src="https://github.com/andhuc/main/blob/main/1.jpg?raw=true" /></div>
+<h1 align="center">Hi, I'm Duc </h1>
 
-<h1 align="center">Hi, I'm Duc
-  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> ! 
-</h1>
 
-<img width="50%" align="right" alt="Github Image" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
-
-##  Languages and Tools
-
+<h3 align="center">Languages and Tools</h3>
 <div align="center">
   <img src="https://github.com/congfptu/congfptu/blob/master/logos/java.png?raw=true" height="60" width="60">
   <img src="https://github.com/Subhampreet/Subhampreet/blob/master/logos/JS.png?raw=true" height="60" width="60">
   </div>
 <div align="center">
+<br />
 
+<img width="30%" align="center" alt="Github Image" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-### 良い一日
-
+<h4 align="center">良い一日</h4>
 
 
 
