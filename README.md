@@ -1,4 +1,4 @@
-<div align="center"><img width="80%" height="auto" src="https://github.com/andhuc/main/blob/main/1.jpg?raw=true" /></div>
+<div align="center"><img width="80%" height="auto" src="https://github.com/andhuc/andhuc/blob/main/1.jpg?raw=true" /></div>
 <h1 align="center">Hi 👋, I'm Duc</h1>
 <h5 align="center">DEV from VietNam</h5>
 
