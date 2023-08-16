@@ -1,7 +1,7 @@
 <!-- <div align="center"><img width="80%" height="auto" src="https://github.com/andhuc/andhuc/blob/main/1.jpg?raw=true" /></div> -->
-<h1 align="center">Hi 👋, I'm Duc</h1>
+<h1 align="center">Whassup</h1>
 
-<h3 align="center">Languages and Tools</h3>
+<h3 align="center">What the hell is this?</h3>
 <p align="center">
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
