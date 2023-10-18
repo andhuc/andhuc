@@ -1,7 +1,7 @@
 <!-- <div align="center"><img width="80%" height="auto" src="https://github.com/andhuc/andhuc/blob/main/1.jpg?raw=true" /></div> -->
 <h1 align="center">Whassup</h1>
 
-<h3 align="center">What the hell is this?</h3>
+<h3 align="center">IDK?</h3>
 <p align="center">
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
 <img src="https://img.shields.io/badge/MySQL-5886A4?style=for-the-badge&logo=mysql&logoColor=white"/>
