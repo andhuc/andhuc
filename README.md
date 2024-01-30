@@ -19,7 +19,7 @@
 <img src="https://img.shields.io/badge/rabbitmq-%23FF6600.svg?&style=for-the-badge&logo=rabbitmq&logoColor=white"/>
 <br>
 <br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andhuc&theme=tokyonight"/>
+<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andhuc&theme=tokyonight"/> -->
 
 <!-- <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/> -->
 
