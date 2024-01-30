@@ -18,7 +18,8 @@
 <img src="https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white"/>
 <img src="https://img.shields.io/badge/rabbitmq-%23FF6600.svg?&style=for-the-badge&logo=rabbitmq&logoColor=white"/>
 <br>
-<img src="https://github-readme-stats.vercel.app/api?username=andhuc&theme=blue-green"/>
+<br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=myusername&theme=tokyonight"/>
 
 <!-- <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/> -->
 
